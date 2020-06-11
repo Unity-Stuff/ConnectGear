@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1372145290330308}
+  m_IsPrefabParent: 1
+--- !u!1 &1372145290330308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4394569476770592}
+  - component: {fileID: 114616012237642424}
+  m_Layer: 0
+  m_Name: ButtonSoundPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4394569476770592
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372145290330308}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 232.53058, y: 393.1576, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114616012237642424
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1372145290330308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0480f14470494503b9af87e9dba12a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 8300000, guid: 31f1260bec450463da0f8b71bbc93cb5, type: 3}
+  gearSounds:
+  - {fileID: 8300000, guid: ad9ea469f7d3c401badf2da3188b8298, type: 3}
+  - {fileID: 8300000, guid: 8bed6b7219d1e4becb979b3cff7c16b9, type: 3}
+  - {fileID: 8300000, guid: a86fcad6316724fa1bb9b485f24ffee1, type: 3}
+  - {fileID: 8300000, guid: 0e9faee546ae9424eac7cdd083ddba9b, type: 3}
+  - {fileID: 8300000, guid: 30e090c61bcdd4ccebf0d04461283e12, type: 3}
+  - {fileID: 8300000, guid: 3f438bd16c3014ba0bd14c6a415c5c85, type: 3}
+  - {fileID: 8300000, guid: fbbfa7dbae6b443019005d4324a619fe, type: 3}
+  - {fileID: 8300000, guid: d699d5a03f65e4b14b08f17786b16ca9, type: 3}
+  - {fileID: 8300000, guid: d5364a201066146e4a1f18a89741d378, type: 3}
+  - {fileID: 8300000, guid: fb65d9eeefbaa453caa4036370ad418c, type: 3}
+  - {fileID: 8300000, guid: 80e1f0656f6bc46c5bce224264a32892, type: 3}
+  - {fileID: 8300000, guid: d6c61c7faba444667b59a141f17e8503, type: 3}
+  - {fileID: 8300000, guid: 9f03238c245cb443bb8c5aa0a0c73bbb, type: 3}
+  - {fileID: 8300000, guid: e6092bae9580a4ff294ac99adfd3be65, type: 3}
+  - {fileID: 8300000, guid: e5afe30b84b844749b4aa2bfd1dc2809, type: 3}
+  - {fileID: 8300000, guid: 3244bec1019a240ebbdf4b875a28259b, type: 3}
+  lvlCmpClip: {fileID: 8300000, guid: 4c3a1d4332dac4097bb346e370a8d4cb, type: 3}
+  SoundButton: {fileID: 0}
+  SoundOffButton: {fileID: 0}
+  MusicButton: {fileID: 0}
+  MusicOffButton: {fileID: 0}

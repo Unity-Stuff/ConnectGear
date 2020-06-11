@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Buffer.unity
+    guid: 4c335d55287ec471195cb65c42225439
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Tutorial.unity
+    guid: aa5e4beda47de43109d42a26081b892d
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Intro1.unity
+    guid: a646b607b7f48496cad6b4525f6e4f64
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Intro2.unity
+    guid: c0ac339bba9804b29a0a85590256af9e
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Intro3.unity
+    guid: 9f019bebad8a7445e854464222d66548
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Intro4.unity
+    guid: 46beb788716b644ae86fc708e2e7ff5d
+  - enabled: 1
+    path: Assets/Scenes/Introduction/MainMenu.unity
+    guid: 3cbaa076e641a4a48b7874fc230de8fa
+  - enabled: 1
+    path: Assets/Scenes/Introduction/BaseLevelMenu.unity
+    guid: a7be24767185a41bfb0b406ce9ea08c0
+  - enabled: 1
+    path: Assets/Scenes/1Identity/IdentityLevelSelector.unity
+    guid: f5b2e0bbc0bb846a291cbb50607dcf3a
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity I.unity
+    guid: 09e7dd5c4978246c8a2337a0a9f2fef9
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity II.unity
+    guid: 0e7b28b60e9274413aaa24de92516910
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity III.unity
+    guid: d3d55725091254e4d8b8cedce28671af
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity IV.unity
+    guid: c3754e59aea6045ef871ddedf41a981a
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity V.unity
+    guid: e4d8ef6eeee6a4437b721dae3803f9e5
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity VI.unity
+    guid: 77e7fd04713704c238f5aef1f4a0215f
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity VII.unity
+    guid: 9be1da2b0840540658d4b0695ce21830
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity VIII.unity
+    guid: 5b2d1e9f6addb4edea59b6b65edeb429
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity IX.unity
+    guid: 8fa896f9f008d4c9db7bc9bf2e22667b
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity X.unity
+    guid: 12f473b070df841fb84cba442e5d3974
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XI.unity
+    guid: 3c6502869748d4bd38830e33cd507695
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XII.unity
+    guid: 387128bd9bc7e41a4972e3ef8d20a4fd
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XIII.unity
+    guid: 6831646fdeb1a477f810d65caefb6c6a
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XIV.unity
+    guid: 77e82ffcc6ca44a2bb80e332db18784b
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XV.unity
+    guid: e61238b1b4bcc48e4bb6d60e2ebfd6bd
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XVI.unity
+    guid: ce6793976de7e49dcb4c020cbcd14cc0
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XVII.unity
+    guid: e0d92d484b7514a6d9a6c107dabb0fc6
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XVIII.unity
+    guid: dcb41de034e9e41508de4225d99b0c0e
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XIX.unity
+    guid: 071cb80f98c9c43afb559d2f19ed6b1e
+  - enabled: 1
+    path: Assets/Scenes/1Identity/Identity XX.unity
+    guid: f6e437e6fdef346b391a216998824fea
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/AttachmentLevelSelector.unity
+    guid: 720ee33fec6694a98b6729066d0f1528
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment I.unity
+    guid: 975e139a51a184d719f68af18676aeb0
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment II.unity
+    guid: 13cc92e0c8ec34babbf6e2807b64ac86
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment III.unity
+    guid: 29907d9b1e5664b8985abaee923521cd
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment IV.unity
+    guid: 9a3ec1cc46ba746f1a2a0a8286102246
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment V.unity
+    guid: a7f4594a20d2a4624aa92dc509d73094
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment VI.unity
+    guid: 1b072fd113179410e957e0bc53843b9d
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment VII.unity
+    guid: c65df677744444e7b8f9bcd9bb8ba671
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment VIII.unity
+    guid: 1cded43368a084e2d865b18846f458e7
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment IX.unity
+    guid: cc534f56c55104c7eaab17beb4c9561f
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment X.unity
+    guid: 0f185cdd1540546e7a0d7acb7f0a2da0
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XI.unity
+    guid: ae14640ccb4a649a3b4dfba3a1ea998c
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XII.unity
+    guid: eedb8a362828d4e97b7de1b75b5054ff
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XIII.unity
+    guid: f9ea7e38386584a7ea4776d783c093ce
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XIV.unity
+    guid: d0696b5a7fc204f74a39793c14f1291b
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XV.unity
+    guid: 5208b998ca425435b8f6439f3212103d
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XVI.unity
+    guid: 580d6c3a0184b41fbb509aed222165cc
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XVII.unity
+    guid: ae74e9655f47b4ada98cd876246a0f9c
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XVIII.unity
+    guid: a2c8b5fa93e784408b15e2d1af0dd79b
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XIX.unity
+    guid: e3e21cc7da90d49dda327a50c432939b
+  - enabled: 1
+    path: Assets/Scenes/2Attachment/Attachment XX.unity
+    guid: 25e3d4df3616f43bb97ca9e65517cad2
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/DoubtLevelSelector.unity
+    guid: 09854bc165ec84bcb9cc5b5ef5ab7c70
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt I.unity
+    guid: 5fa6570ab6ec04a2eb1ddd80446ebfa3
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt II.unity
+    guid: d6d6e6504a282422e97ba8f29603d905
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt III.unity
+    guid: bbc98669f07f94acfbf87e0279b8c4b6
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt IV.unity
+    guid: 35e9eb0ac3fe34bf2819549b2275184c
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt V.unity
+    guid: b3e0615629de4469c8fa743aa5fb0737
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt VI.unity
+    guid: 0eb572ac78c7f4517871c9387624b1e1
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt VII.unity
+    guid: 85acc22811a03464e8c9af2d2b0ed37c
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt VIII.unity
+    guid: 1a7ec0f28d7394e09a57430bf7a73040
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt IX.unity
+    guid: 6943878d58a234db499075ca8083b08c
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt X.unity
+    guid: 2c5eaeff86e434d89ab7cc24804322cc
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XI.unity
+    guid: 952b40152d6434b49ba2769a47593238
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XII.unity
+    guid: 75dbf6025434b426783b006530517b0f
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XIII.unity
+    guid: 73fbad4ad9fce412ba99b3453729bb58
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XIV.unity
+    guid: a27e78c1a9d564c21b9adc0a4196c304
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XV.unity
+    guid: 16adb9b9ff11f44a8b6e93193ec73446
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XVI.unity
+    guid: e0e9d5b7585eb491ca6d5cdf4eaf510b
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XVII.unity
+    guid: ad36937868aef4745b9f2a51229a88de
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XVIII.unity
+    guid: fd09bee29e736473e83e40be0b2eecd4
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XIX.unity
+    guid: 43f719904354142dfa45329b1ede0fb9
+  - enabled: 1
+    path: Assets/Scenes/3Doubt/Doubt XX.unity
+    guid: 0784bce57475d4b8693da18809fce71c
+  - enabled: 1
+    path: Assets/Scenes/4Desire/DesireLevelSelector.unity
+    guid: b0464cedec4264eb48dd151950cb135a
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire I.unity
+    guid: c52f03075c3774ac38ba37e0c178443f
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire II.unity
+    guid: 28d556f625be74d2ca3d470cbd416223
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire III.unity
+    guid: c13a2e34d4f5b41dc93b90b08ffc65d0
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire IV.unity
+    guid: 732bb66450ded42d58bf00b5e55d8f9c
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire V.unity
+    guid: 20d1c28e97bc0454ba30bbd393467e43
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire VI.unity
+    guid: 9a3c8e6c5c91d4ab9b820d9ec4001c17
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire VII.unity
+    guid: 69dabbcb1404741a3a77ccb3376f2e2c
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire VIII.unity
+    guid: 6b2d9295d5bc444d8829525d07bb32f9
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire IX.unity
+    guid: 90a0255cf8e1b4554a51c60fefef0f86
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire X.unity
+    guid: 3fa13f42f26224a739aa3cd7c3aff0b8
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XI.unity
+    guid: 7fa6e44096a1642e4b1385b5493b0a26
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XII.unity
+    guid: e5b6ae3ea75e9498281fc1f2717654ab
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XIII.unity
+    guid: 258ac515a127d4e268acd1de30c16dc0
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XIV.unity
+    guid: ec37d1eba93384a70b276ec0f373ce5c
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XV.unity
+    guid: 062b58ea244934e6c87b14ac1a13e1c3
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XVI.unity
+    guid: 85aaf414f4cc14c6096bc64e7acb68e2
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XVII.unity
+    guid: 6c23bc3dc3f0d417da14d29fa35de290
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XVIII.unity
+    guid: 0643f65de128b48cd9a1903dfe1b25be
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XIX.unity
+    guid: 7e7a2c36e032445e8bf11ef5c024ef34
+  - enabled: 1
+    path: Assets/Scenes/4Desire/Desire XX.unity
+    guid: 6fa8bf68f6f344f919dffaa27501da10
+  - enabled: 1
+    path: Assets/Scenes/Introduction/EndScene1.unity
+    guid: 32e6dfd9c8b4f47a7b8b4326e8c75ac4
+  - enabled: 1
+    path: Assets/Scenes/Introduction/EndScene2.unity
+    guid: 3f6a8d267ac9b4495aadb756d05ebbba
+  - enabled: 1
+    path: Assets/Scenes/Introduction/EndScene3.unity
+    guid: ff51f3a705524453b9fc13b64b6fe8fa
+  - enabled: 1
+    path: Assets/Scenes/Introduction/EndScene4.unity
+    guid: a224791a6616c45ed95e81a4765a3a6c

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B373D9CF-6428-CD47-41D4-935DD3C0BAA6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AdsManagerScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LineDemo.cs" Line="90" Column="51" />
+      <File FileName="Assets/Scripts/Gears.cs" Line="1" Column="1" />
+      <File FileName="Assets/LineDraw/Scripts/LineFactory.cs" Line="65" Column="37" />
+      <File FileName="Assets/LineDraw/Scripts/Line.cs" Line="52" Column="47" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonSoundPlayer.cs" Line="10" Column="30" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="17" Column="34" />
+      <File FileName="Assets/Scripts/SfxPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/fadeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TerminalGear.cs" Line="38" Column="51" />
+      <File FileName="Assets/Scripts/StartGameTouch.cs" Line="17" Column="49" />
+      <File FileName="Assets/ChangeBufferScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/BufferScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/HardwareButtonManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelNameSetter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Android/GoogleMobileAdsPlugin/AndroidManifest.xml" Line="16" Column="66" />
+      <File FileName="Assets/Scripts/AdsManagerScript.cs" Line="74" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConnectGear PreferredExecutionTarget="Unity.Editor" />
+</Properties>

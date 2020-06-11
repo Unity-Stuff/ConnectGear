@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 987fe3f2682aa4a72b6c0a61a2276ba2
+timeCreated: 1510906877
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Samarkan
+  fontNames:
+  - Samarkan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
